@@ -1,0 +1,48 @@
+
+Changelog history of the DLSUdtp.
+2015-May-26
+by Lawrence Materum
+
+*******
+2015-May-26 
+V0.12 changes:
+
+(1) In usage_example.tex: Fixed hanging \boldmath and Index example. Improved notation, figure, table, referencing, algorithm/pseducodoe/code listing examples. 
+
+(2) Modified documentType to Thesis instead of Thesis Proposal
+
+(3) Corrected last missing 0 in ISO 8000-2 (the correct one is ISO 80000-2)
+
+(4) Corrected some grammatical errors (there might be more left).
+
+Changes by: Lawrence Materum
+*******
+
+*******
+2015-May-25 
+V0.1 changes:
+
+(1) Tried to fix the "Improper Alphabetic Constant" error.
+
+(2) Placed additional examples in usage_example.tex
+
+Changes by: Lawrence Materum
+*******
+
+*******
+25-May-2015 original LaTeX2e version:
+
+by Lawrence Materum
+Department of Electronics and Communications Engineering
+De La Salle University, Manila, Philippines
+*******
+
+*******
+2015-March-17 
+V0.0:
+
+(1) Released to Engr. Ann Dulay
+
+By: Lawrence Materum
+*******
+
